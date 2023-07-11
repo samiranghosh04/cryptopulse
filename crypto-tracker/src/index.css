@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+    color: black;
+    padding: 2rem 4rem;
+    border-radius: 0.25rem;
+    font-weight: 600;
+    font-size: 1rem;
+}
